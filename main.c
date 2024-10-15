@@ -27,10 +27,12 @@ int check_single_space(const char *input) {
 int validate_input(const char *input) {
     if (!check_digits_and_spaces(input)) {
         printf("Error: Input contains invalid characters.\n");
+        printf("Błąd: Wpisane liczby zawierają niepoprawny znak!\n");
         return 0;
     }
     if (!check_single_space(input)) {
         printf("Error: Input must contain exactly two numbers separated by a single space.\n");
+        printf("Błąd: Musisz podać 2 liczby oddzielone spacją!\n");
         return 0;
     }
     return 1;

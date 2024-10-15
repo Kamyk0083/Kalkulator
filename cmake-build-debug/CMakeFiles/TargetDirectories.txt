@@ -1,0 +1,3 @@
+C:/Users/kamin/CLionProjects/Kalkulator/cmake-build-debug/CMakeFiles/Kalkulator.dir
+C:/Users/kamin/CLionProjects/Kalkulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kamin/CLionProjects/Kalkulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
